@@ -1,0 +1,1 @@
+asgiref Django django-cors-headers djangorestframework-simplejwt PyJWt pytz python-dotenv drf-yasg Pillow setuptools psycopg2 django-filter django-split-settings pyyaml
